@@ -24,7 +24,7 @@ substitutions:
   voice_assist_error_phase_id: "11"
   voice_assist_muted_phase_id: "12"
 
-  micro_wake_word_model: okay_nabu
+  micro_wake_word_model: hey_jarvis
 
 esphome:
   name: ${name}
